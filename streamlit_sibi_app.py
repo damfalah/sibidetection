@@ -118,5 +118,5 @@ elif halaman.startswith("📷"):
         )
 
     st.markdown("---")
-    st.info("💡 Tips: Letakkan tangan kanan di tengah kamera dan tahan selama 1–2 detik. Untuk menghapus kata yang sudah terbentuk, silakan hentikan dan jalankan kembali kamera.")
+    st.info("💡 Tips: Letakkan tangan kanan di tengah kamera berjarak 60cm dan tahan selama 1–3 detik. Untuk menghapus kata yang sudah terbentuk, silakan hentikan dan jalankan kembali kamera.")
     st.caption("Model: Random Forest | Skripsi SIBI | by Mohammad Adam Falah")
